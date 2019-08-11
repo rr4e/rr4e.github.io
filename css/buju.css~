@@ -1,0 +1,97 @@
+
+
+
+
+#logo{
+	float: left;
+	font-size:85;
+
+
+
+}
+
+
+hr {
+	clear: left;
+	height: 40;
+	border: none;
+	border-top: 1px solid white;
+
+}
+
+
+body #logo a:hover{
+	background:none;
+
+	
+}
+
+* {
+	list-style: none;
+}
+
+body {
+	
+	background: black;
+	color: orange;
+}
+
+
+
+
+
+
+.heng {
+	margin: 0;
+	padding: 0;
+
+}
+
+.a,.b,.c,.d,.e {
+	float: left;
+	width: 20%;
+	height: 50;
+	font-size: 20;
+
+
+}
+
+.a {
+	clear: left;
+}
+
+
+
+
+
+.aa,.bb,.cc,.dd,.ee {
+	width: 140;
+	height: 25;
+	float: left;
+	font-size: 25;
+	text-align: center;
+	line-height: 25px;
+
+}
+
+.t {
+	float: left;
+	width: 1;
+	height: 25;
+	background: white;
+
+}
+
+
+
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td {
+	width: 20%;
+	vertical-align: top;
+}
+
